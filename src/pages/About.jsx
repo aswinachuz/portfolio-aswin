@@ -38,7 +38,7 @@ export default function About() {
             <div className="about-left">
               <div className="about-photo-wrap">
                 <img
-                  src="src\Aswinphoto.jpeg"
+                  src="Assests/Aswinphoto.jpeg"
                   alt="Aswin U"
                   className="about-photo"
                 />
